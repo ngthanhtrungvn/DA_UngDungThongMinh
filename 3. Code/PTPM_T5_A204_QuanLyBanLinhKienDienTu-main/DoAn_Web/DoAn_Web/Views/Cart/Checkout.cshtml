@@ -1,0 +1,91 @@
+﻿@using DoAn_Web.Models
+@{
+    ViewBag.Title = "Thanh toán";
+    List<CartItem> cart = Session["cartSession"] as List<CartItem>;
+    ACCOUNT acc = Session["account_client"] as ACCOUNT;
+    string tongtien = ViewBag.TongTien;
+    KHACHHANG kh = ViewBag.kh;
+}
+@section scripts{
+    <script src="~/Assets/Client/json/data.json"></script>
+}
+<!-- Page Header Start -->
+<div class="container-fluid bg-secondary">
+    <div class="d-flex flex-column align-items-center justify-content-center" style="min-height: 150px">
+        <h1 class="font-weight-semi-bold text-uppercase mb-3">Thanh toán</h1>
+        <div class="d-inline-flex">
+            <p class="m-0"><a href="/">Trang chủ</a></p>
+            <p class="m-0 px-2">-</p>
+            <p class="m-0">Thanh toán</p>
+        </div>
+    </div>
+</div>
+<!-- Page Header End -->
+@if (acc != null && cart != null)
+{
+    <!-- Checkout Start -->
+    <div id="checkout" class="container-fluid pt-5">
+        <div class="row px-xl-5">
+            <div class="col-lg-8">
+                <div class="mb-4">
+                    <h4 class="font-weight-semi-bold mb-4">Thông tin đơn hàng</h4>
+                    <div class="row">
+                        <label class="d-none" id="makh">@kh.Makh</label>
+                        <div class="col-md-6 form-group">
+                            <label>Họ tên</label>
+                            <input id="cart-fullname" value="@kh.TENKH" class="form-control" type="text" placeholder="Nguyễn Văn A">
+                        </div>
+
+                        <div class="col-md-6 form-group">
+                            <label>E-mail</label>
+                            <input id="cart-email" class="form-control" value="@acc.email" type="text" placeholder="example@email.com">
+                        </div>
+                        <div class="col-md-6 form-group">
+                            <label>Số điện thoại</label>
+                            <input id="cart-phone" class="form-control" value="@kh.SDT" type="text" placeholder="037 099 0666">
+                        </div>
+                        <div class="col-md-6 form-group">
+                            <label>Địa chỉ</label>
+                            <input id="cart-address" class="form-control" type="text" value="@kh.DIACHI" placeholder="166, ấp Tân Phú 2">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="card border-secondary mb-5">
+                    <div class="card-header bg-secondary border-0">
+                        <h4 class="font-weight-semi-bold m-0">Tổng đơn đặt hàng</h4>
+                    </div>
+                    <div class="card-body">
+                        <h5 class="font-weight-medium mb-3">Sản phẩm</h5>
+                        @foreach (var item in cart)
+                        {
+                            <div class="d-flex justify-content-between">
+                                <p>@item.Product.TENLINHKIEN</p>
+                                <p>@Libary.Instances.ConvertVND((item.Quantity * (item.Product.DONGIA)).ToString())</p>
+                            </div>
+                        }
+                    </div>
+                    <div class="card-footer border-secondary bg-transparent">
+                        <div class="d-flex justify-content-between mt-2 flex-column">
+                            <p class="font-weight-bold">Thành tiền @Libary.Instances.ConvertVND(ViewBag.ThanhTien) </p>
+                            <p class="font-weight-bold">Giảm giá @ViewBag.giamgia </p>
+                            <div class="d-flex">
+                                <h5 class="font-weight-bold" style="margin-right: 1rem">Tổng giá</h5>
+                                <h5 class="font-weight-bold" id="tt"> @Libary.Instances.ConvertVND(tongtien)</h5>
+                            </div>
+                        
+                        </div>
+                    </div>
+                </div>
+                <div class="card border-secondary mb-5">
+                    <div class="card-footer border-secondary bg-transparent">
+                        <button id="btnpay" class="btn btn-lg btn-block btn-primary font-weight-bold my-3 py-3">Xác nhận</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Checkout End -->
+}
+

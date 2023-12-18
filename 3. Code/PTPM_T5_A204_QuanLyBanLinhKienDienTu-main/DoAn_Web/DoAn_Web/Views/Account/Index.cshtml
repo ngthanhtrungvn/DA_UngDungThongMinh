@@ -1,0 +1,238 @@
+﻿
+@{
+    ViewBag.Title = "Đăng nhập - Đăng kí";
+}
+@section styles{
+    <link href="~/Assets/Client/css/account.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+}
+@section scripts{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js" integrity="sha512-37T7leoNS06R80c8Ulq7cdCDU5MNQBwlYoy1TX/WUsLFC2eYNqtKlV0QjH7r8JpG/S0GUMZwebnVFLPd6SU5yg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script>
+        $(function(){
+    let pwShown = 0;
+    function showPass(eye) {
+        const p = $('#pwd');
+        p.attr('type', 'text');
+       $(eye).removeClass('fa fa-eye');
+       $(eye).addClass('fa fa-eye-slash');
+
+    }
+    function hidePass(eye) {
+        const p = $('#pwd');
+        p.attr('type', 'password');
+        $(eye).removeClass('fa fa-eye-slash');
+        $(eye).addClass('fa fa-eye');
+
+    }
+    $("#eye").click( function () {
+        if (pwShown == 0) {
+            pwShown = 1;
+            showPass(this);
+        } else {
+            pwShown = 0;
+            hidePass(this);
+
+        }
+    });
+
+    $('.btn-register-link').click(function (e) {
+        e.preventDefault();
+        $('#link-register').click();
+    })
+    $('.btn-login-link').click(function (e) {
+        e.preventDefault();
+        $('#link-login').click();
+    })
+
+    $(".custom-file-input").on("change", function () {
+        let fileName = $(this).val().split("\\").pop();
+        console.log(fileName);
+        $(this).siblings(".custom-file-label").addClass("selected").html(fileName);
+    });
+
+
+})
+    </script>
+    <script src="~/Assets/Client/js/code/validateform.js"></script>
+}
+<!-- Page Header Start -->
+<div class="container-fluid bg-secondary mb-5">
+    <div class="d-flex flex-column align-items-center justify-content-center" style="min-height: 150px">
+        <h1 class="font-weight-semi-bold text-uppercase mb-3">Đăng nhập</h1>
+        <div class="d-inline-flex">
+            <p class="m-0"><a href="">Trang chủ</a></p>
+            <p class="m-0 px-2">-</p>
+            <p class="m-0">Đăng nhập</p>
+        </div>
+    </div>
+</div>
+<!-- Page Header End -->
+
+<div class="container-fluid">
+    <div class="row px-xl-5">
+        <div class="col-12">
+            <div class="nav nav-tabs justify-content-center border-secondary mb-4">
+                <a class="nav-item nav-link active" id="link-login" data-toggle="tab" href="#tab-pane-1">Đăng nhập</a>
+                <a class="nav-item nav-link" id="link-register" data-toggle="tab" href="#tab-pane-2">Đăng kí</a>
+            </div>
+            <div class="tab-content">
+                <div class="tab-pane fade active show" id="tab-pane-1">
+                    <div class="wrapper">
+                        <div class="text-center name"> Đăng nhập </div>
+                        <form name="login" class="p-3 mt-3">
+                            <div>
+                                <div class="form-field d-flex align-items-center">
+                                    <span class="far fa-user"></span>
+                                    <input type="text" name="username_login" id="username_login" placeholder="Tên đăng nhập">
+                                </div>
+                            </div>
+                            <div class="form-field d-flex align-items-center">
+                                <span class="fas fa-key"></span>
+                                <input type="password" name="password_login" id="password_login" placeholder="Mật khẩu">
+                            </div>
+                            <button id="btnlogin" class="btn mt-3">Đăng nhập</button>
+                        </form>
+                        <div class="text-center fs-6"> <a id="btnfogetpass" href="#">Quên mật khẩu?</a> hoặc <a class="btn-register-link" href="#">Đăng kí</a> </div>
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="tab-pane-2">
+                    <div class="wrapper">
+                        <div class="text-center name"> Đăng kí </div>
+                        <form name="register" class="p-3 mt-3">
+                            <div class="form-field d-flex align-items-center">
+                                <span class="far fa-user"></span>
+                                <input name="username_register" id="username_register" type="text" placeholder="Tên đăng nhập">
+                            </div>
+                            <div class="form-field d-flex align-items-center">
+                                <span class="fa-solid fa-at"></span>
+                                <input name="email_register" id="email_register" type="email" placeholder="Email">
+                            </div>
+
+                            <div class="form-field d-flex align-items-center">
+                                <span class="fa-solid fa-phone"></span>
+                                <input name="phone" type="tel" id="phone" placeholder="Số điện thoại">
+                            </div>
+                            <div class="form-field d-flex align-items-center">
+                                <span class="fa-solid fa-signature"></span>
+                                <input name="fullname" id="fullname" type="text" placeholder="Họ tên">
+                            </div>
+                            <div id="Gioitinh">
+                                <div class="form-check form-check-inline">
+                                    <input class="fa-solid " type="radio" name="inlineRadioOptions" id="Nam" value="1">
+                                    <label>&ensp;NAM</label>
+                                </div>
+                                <div class="form-check form-check-inline">
+                                    <input class="fa-solid " type="radio" name="inlineRadioOptions" id="Nu" value="0">
+                                    <label>&ensp;NỮ</label>
+                                </div>
+                            </div>
+                            
+                            <div class="form-field d-flex align-items-center">
+                                <span class="fa-solid fa-location-dot"></span>
+                                <input name="address" id="address" type="text" placeholder="Địa chỉ">
+                            </div>
+                            <div class="form-field d-flex align-items-center">
+                                <span class="fas fa-key"></span>
+                                <input name="password_register" id="password_register" type="password" placeholder="Mật khẩu">
+                            </div>
+                            <div class="form-field d-flex align-items-center">
+                                <span class="fas fa-key"></span>
+                                <input name="confirm_password" id="confirm_password" type="password" placeholder="Xác nhận mật khẩu">
+                            </div>
+                            <div class="form-field d-flex align-items-center" style="padding: 6px;">
+                                <div class="custom-file">
+                                    <input type="file" class="custom-file-input" id="imageregister" name="imageregister">
+                                    <label style="background-color: transparent;border: unset" class="custom-file-label" for="customFile">Choose file</label>
+                                </div>
+                            </div>
+
+                            <button id="btnregister" class="btn mt-3">Đăng kí</button>
+                        </form>
+                        <div class="text-center fs-6"> <a class="btn-login-link" href="#">Đăng nhập</a> </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- Modal  email -->
+<div class="modal fade" id="myModal4" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <form name="forgetpassemail">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Nhập email</h4>
+                    <button type="button" id="btnclosexregister" class="close" data-dismiss="modal" style="">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <input id="keywordemail" name="keywordemail" autofocus autocomplete="on" class="form-control" type="text" />
+                </div>
+                <div class="modal-footer">
+                    <button id="btnsubmitforget" class="btn btn-outline-success">
+                        Xác nhận
+                    </button>
+                    <button type="button" id="btncloseforget" class="btn btn-outline-danger" data-dismiss="modal">Đóng</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<!--Modal email end-->
+<!-- Modal code forget -->
+<div class="modal fade" id="myModal5" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <form name="submitforgetpass">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Nhập mã xác nhận</h4>
+                    <button type="button" id="btnclosexforgetpass" class="close" data-dismiss="modal" style="">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <input id="keywordforget" name="keywordforget" autofocus autocomplete="on" class="form-control" type="text" />
+                </div>
+                <div class="modal-footer">
+                    <button id="btnsubmitforgetpass" class="btn btn-outline-success">
+                        Xác nhận
+                    </button>
+                    <button id="btnsendagainforgetpass" class="btn btn-outline-primary">
+                        Gửi lại mã
+                    </button>
+                    <button id="btncloseforgetpass" class="btn btn-outline-danger" data-dismiss="modal">Đóng</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<!--Modal code forget end-->
+<!-- Modal changepassword -->
+<div class="modal fade" id="myModal6" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <form name="submitchangepass">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Đổi mật khẩu mới</h4>
+                    <button type="button" id="btnclosexchangepass" class="close" data-dismiss="modal" style="">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <input id="passnew" name="passnew" placeholder="Nhập mật khẩu mới" autofocus autocomplete="off" class="form-control mb-2" type="password" />
+                    <input id="prepass" name="prepass" placeholder="Nhập lại mật khẩu" autofocus autocomplete="off" class="form-control" type="password" />
+                </div>
+                <div class="modal-footer">
+                    <button id="btnsubmitchangepass" class="btn btn-outline-success">
+                        Xác nhận
+                    </button>
+                    <button type="button" id="btnclosechangepass" class="btn btn-outline-danger" data-dismiss="modal">Đóng</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<!--Modal changepassword end-->
+

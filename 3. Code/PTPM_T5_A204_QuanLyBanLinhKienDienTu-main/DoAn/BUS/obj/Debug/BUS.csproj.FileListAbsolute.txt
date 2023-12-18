@@ -1,0 +1,134 @@
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\BUS.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DAO.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DTO.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DAO.pdb
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DAO.dll.config
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\obj\Debug\BUS.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\Study\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\Huy\class\ungdungthongminh\projectcuoi\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\BUS.dll
+D:\Huy\class\ungdungthongminh\projectcuoi\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\BUS.pdb
+D:\Huy\class\ungdungthongminh\projectcuoi\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DAO.dll
+D:\Huy\class\ungdungthongminh\projectcuoi\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DTO.dll
+D:\Huy\class\ungdungthongminh\projectcuoi\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DAO.pdb
+D:\Huy\class\ungdungthongminh\projectcuoi\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DAO.dll.config
+D:\Huy\class\ungdungthongminh\projectcuoi\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DTO.pdb
+D:\Huy\class\ungdungthongminh\projectcuoi\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Huy\class\ungdungthongminh\projectcuoi\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Huy\class\ungdungthongminh\projectcuoi\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Huy\class\ungdungthongminh\projectcuoi\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\obj\Debug\BUS.dll
+D:\Huy\class\ungdungthongminh\projectcuoi\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\obj\Debug\BUS.pdb
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\BUS.dll
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\BUS.pdb
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DAO.dll
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DevExpress.Data.v19.2.dll
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DTO.dll
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DAO.pdb
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DAO.dll.config
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DTO.pdb
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\obj\Debug\BUS.dll
+D:\Workspace\C#\Ung_Dung_Thong_Minh\Do_An_UDTM\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\Accord.dll.config
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\BUS.dll
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DAO.dll
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DTO.dll
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\Accord.Neuro.dll
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\Accord.dll
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\Accord.Math.dll
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\Accord.Genetic.dll
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\Accord.Statistics.dll
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\Accord.Math.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DAO.pdb
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DAO.dll.config
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\Accord.Neuro.xml
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\Accord.xml
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\Accord.Math.xml
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\Accord.Genetic.xml
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\Accord.Statistics.xml
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\Accord.Math.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\obj\Debug\BUS.dll
+C:\Users\Admin-s\OneDrive\Máy tính\work\PTPM_T5_A204_QuanLyBanLinhKienDienTu\DoAn\BUS\obj\Debug\BUS.pdb
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\Accord.dll.config
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\BUS.dll
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\BUS.pdb
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\DAO.dll
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\DTO.dll
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\Accord.Neuro.dll
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\Accord.dll
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\Accord.Math.dll
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\Accord.Genetic.dll
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\Accord.Statistics.dll
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\Accord.Math.Core.dll
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\DAO.pdb
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\DAO.dll.config
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\DTO.pdb
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\Accord.Neuro.xml
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\Accord.xml
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\Accord.Math.xml
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\Accord.Genetic.xml
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\Accord.Statistics.xml
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\Accord.Math.Core.xml
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\obj\Debug\BUS.dll
+C:\Users\admin\Desktop\PTPM_T5_A204_QuanLyBanLinhKienDienTu-main\DoAn\BUS\obj\Debug\BUS.pdb

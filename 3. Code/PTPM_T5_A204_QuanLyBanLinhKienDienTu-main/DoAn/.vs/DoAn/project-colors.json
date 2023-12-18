@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "747fc012-def7-49b3-94df-c67f931a9721": {
+      "ProjectGuid": "747fc012-def7-49b3-94df-c67f931a9721",
+      "DisplayName": "DoAn",
+      "ColorIndex": 0
+    },
+    "b83b823f-306d-476e-aac6-c6bdd2ca4394": {
+      "ProjectGuid": "b83b823f-306d-476e-aac6-c6bdd2ca4394",
+      "DisplayName": "DAO",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
